@@ -9,7 +9,7 @@ on:
   # И при пуше в основную ветку
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: write

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HighExceL/HighExceL/main/assets/matrix-header.svg" alt="header" width="100%" />
+  <img src="https://raw.githubusercontent.com/HighExceL/HighExceL/master/assets/matrix-header.svg" alt="header" width="100%" />
 </p>
 
 <p align="center">
