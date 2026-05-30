@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Антон 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:7aa2f7&height=180&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%87%d0%b8%d0%ba+%d0%b8%d0%b7+%d0%9e%d1%80%d0%b5%d0%bd%d0%b1%d1%83%d1%80%d0%b3%d0%b0;%d0%a1%d1%82%d0%b5%d0%ba+TALL%3a+Tailwind%2c+Alpine%2c+Laravel%2c+Livewire" alt="Typing SVG" />
@@ -31,3 +31,15 @@
   <a href="mailto:highexcel@ya.ru"><img src="https://img.shields.io/badge/Почта-highexcel@ya.ru-FF3333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/HighExceL"><img src="https://img.shields.io/badge/Telegram-@HighExceL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
+
+## 🐍 Активность
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HighExceL/HighExceL/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HighExceL/HighExceL/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/HighExceL/HighExceL/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:24283b&height=120&section=footer" alt="footer" width="100%" />
