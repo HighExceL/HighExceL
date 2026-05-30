@@ -31,10 +31,3 @@
   <a href="mailto:highexcel@ya.ru"><img src="https://img.shields.io/badge/Почта-highexcel@ya.ru-FF3333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/HighExceL"><img src="https://img.shields.io/badge/Telegram-@HighExceL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
-## 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HighExceL&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighExceL&layout=compact&theme=tokyonight" alt="langs" />
-</p>
