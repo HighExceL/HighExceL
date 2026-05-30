@@ -29,6 +29,7 @@
 <p align="center">
   <a href="https://highexcel.ru"><img src="https://img.shields.io/badge/Сайт-highexcel.ru-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:highexcel@ya.ru"><img src="https://img.shields.io/badge/Почта-highexcel@ya.ru-FF3333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/HighExceL"><img src="https://img.shields.io/badge/Telegram-@HighExceL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ## 📊 Статистика
