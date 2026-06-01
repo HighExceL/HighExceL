@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="74" viewBox="0 0 720 74" role="img" aria-label="Fullstack-разработчик. Стек TALL: Tailwind, Alpine, Laravel, Livewire">
+  <style>
+    text {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 18px;
+    }
+    .prompt { fill: #39ff14; }
+    .line { fill: #a8ffb5; }
+    .cursor {
+      fill: #39ff14;
+      animation: blink 1s steps(2, end) infinite;
+    }
+    .first { animation: first 8s infinite; }
+    .second { animation: second 8s infinite; }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes first {
+      0%, 42% { opacity: 1; }
+      48%, 94% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes second {
+      0%, 42% { opacity: 0; }
+      48%, 94% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <rect width="720" height="74" rx="8" fill="#020902"/>
+  <text x="18" y="44" class="prompt">&gt;</text>
+  <text x="42" y="44" class="line first">FULLSTACK-РАЗРАБОТЧИК ИЗ ОРЕНБУРГА</text>
+  <text x="42" y="44" class="line second">TALL: TAILWIND · ALPINE · LARAVEL · LIVEWIRE</text>
+  <rect x="684" y="27" width="10" height="20" class="cursor"/>
+</svg>
