@@ -6,12 +6,12 @@
   <img src="./assets/terminal-intro.svg" alt="Fullstack-разработчик. Стек TALL: Tailwind, Alpine, Laravel, Livewire" width="720" />
 </p>
 
+## Связаться
+
 <p align="center">
-  <a href="https://highexcel.ru">highexcel.ru</a>
-  ·
-  <a href="mailto:highexcel@ya.ru">highexcel@ya.ru</a>
-  ·
-  <a href="https://t.me/HighExceL">@HighExceL</a>
+  <a href="https://highexcel.ru"><img src="./assets/contact-website.svg" alt="Сайт: highexcel.ru" height="48" /></a>
+  <a href="mailto:highexcel@ya.ru"><img src="./assets/contact-email.svg" alt="Почта: highexcel@ya.ru" height="48" /></a>
+  <a href="https://t.me/HighExceL"><img src="./assets/contact-telegram.svg" alt="Telegram: @HighExceL" height="48" /></a>
 </p>
 
 ## Технологии
