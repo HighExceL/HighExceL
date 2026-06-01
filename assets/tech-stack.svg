@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="248" viewBox="0 0 760 248" role="img" aria-label="Технологии: TALL stack, PHP, JavaScript, MySQL, PostgreSQL, Redis, Docker, Nginx, Linux">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020902"/>
+      <stop offset="100%" stop-color="#061306"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="0.7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: "Courier New", Courier, monospace; }
+      .frame { fill: url(#panel); stroke: #9ad9a4; stroke-opacity: .48; }
+      .section { fill: #72ff8c; font-size: 11px; font-weight: bold; letter-spacing: 2px; }
+      .hint { fill: #6f9976; font-size: 10px; letter-spacing: 1px; }
+      .chip { fill: #041004; stroke: #39ff14; stroke-opacity: .44; }
+      .chip-primary { fill: #072007; stroke: #39ff14; stroke-opacity: .78; }
+      .label { fill: #caffd2; font-size: 14px; font-weight: bold; }
+      .label-primary { fill: #39ff14; font-size: 15px; font-weight: bold; }
+      .dot { fill: #39ff14; }
+      .line { stroke: #1f8f45; stroke-opacity: .55; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="246" rx="9" class="frame"/>
+  <circle cx="20" cy="20" r="3" class="dot" filter="url(#glow)"/>
+  <text x="32" y="24" class="section">STACK STATUS: ONLINE</text>
+  <text x="593" y="24" class="hint">PROFILE://HIGHEXCEL</text>
+  <path d="M16 37h728" class="line"/>
+
+  <text x="20" y="60" class="section">TALL / PRIMARY</text>
+  <rect x="20" y="72" width="170" height="36" rx="6" class="chip-primary"/>
+  <rect x="202" y="72" width="170" height="36" rx="6" class="chip-primary"/>
+  <rect x="384" y="72" width="170" height="36" rx="6" class="chip-primary"/>
+  <rect x="566" y="72" width="174" height="36" rx="6" class="chip-primary"/>
+  <text x="105" y="95" text-anchor="middle" class="label-primary" filter="url(#glow)">LARAVEL</text>
+  <text x="287" y="95" text-anchor="middle" class="label-primary" filter="url(#glow)">LIVEWIRE</text>
+  <text x="469" y="95" text-anchor="middle" class="label-primary" filter="url(#glow)">TAILWIND CSS</text>
+  <text x="653" y="95" text-anchor="middle" class="label-primary" filter="url(#glow)">ALPINE.JS</text>
+
+  <text x="20" y="132" class="section">CORE</text>
+  <rect x="20" y="144" width="112" height="32" rx="6" class="chip"/>
+  <rect x="144" y="144" width="150" height="32" rx="6" class="chip"/>
+  <text x="76" y="165" text-anchor="middle" class="label">PHP</text>
+  <text x="219" y="165" text-anchor="middle" class="label">JAVASCRIPT</text>
+
+  <text x="322" y="132" class="section">DATA</text>
+  <rect x="322" y="144" width="112" height="32" rx="6" class="chip"/>
+  <rect x="446" y="144" width="142" height="32" rx="6" class="chip"/>
+  <rect x="600" y="144" width="140" height="32" rx="6" class="chip"/>
+  <text x="378" y="165" text-anchor="middle" class="label">MYSQL</text>
+  <text x="517" y="165" text-anchor="middle" class="label">POSTGRESQL</text>
+  <text x="670" y="165" text-anchor="middle" class="label">REDIS</text>
+
+  <text x="20" y="200" class="section">OPS</text>
+  <rect x="20" y="212" width="132" height="28" rx="6" class="chip"/>
+  <rect x="164" y="212" width="132" height="28" rx="6" class="chip"/>
+  <rect x="308" y="212" width="132" height="28" rx="6" class="chip"/>
+  <rect x="452" y="212" width="132" height="28" rx="6" class="chip"/>
+  <text x="86" y="231" text-anchor="middle" class="label">DOCKER</text>
+  <text x="230" y="231" text-anchor="middle" class="label">NGINX</text>
+  <text x="374" y="231" text-anchor="middle" class="label">LINUX</text>
+  <text x="518" y="231" text-anchor="middle" class="label">GIT</text>
+  <text x="600" y="231" class="hint">READY FOR DEPLOY_</text>
+</svg>

@@ -17,19 +17,7 @@
 ## Технологии
 
 <p align="center">
-  <code>Laravel</code>&nbsp;
-  <code>Livewire</code>&nbsp;
-  <code>Tailwind CSS</code>&nbsp;
-  <code>Alpine.js</code>&nbsp;
-  <code>PHP</code>&nbsp;
-  <code>JavaScript</code>
-  <br><br>
-  <code>MySQL</code>&nbsp;
-  <code>PostgreSQL</code>&nbsp;
-  <code>Redis</code>&nbsp;
-  <code>Docker</code>&nbsp;
-  <code>Nginx</code>&nbsp;
-  <code>Linux</code>
+  <img src="./assets/tech-stack.svg" alt="Технологии: TALL stack, PHP, JavaScript, MySQL, PostgreSQL, Redis, Docker, Nginx, Linux, Git" width="760" />
 </p>
 
 ## Активность
