@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-intro.svg" alt="Fullstack-разработчик. Стек TALL: Tailwind, Alpine, Laravel, Livewire" width="720" />
+  <img src="./assets/terminal-intro.svg" alt="Web apps: from idea to deploy. TALL stack: Tailwind, Alpine, Laravel, Livewire" width="720" />
 </p>
 
 ## Связаться
