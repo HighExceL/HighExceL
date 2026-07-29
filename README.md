@@ -9,7 +9,7 @@
 ## Связаться
 
 <p align="center">
-  <a href="https://highexcel.ru"><img src="./assets/contact-website.svg" alt="Сайт: highexcel.ru" height="48" /></a>
+  <a href="https://hixl.ru"><img src="./assets/contact-website.svg" alt="Сайт: hixl.ru" height="48" /></a>
   <a href="mailto:highexcel@ya.ru"><img src="./assets/contact-email.svg" alt="Почта: highexcel@ya.ru" height="48" /></a>
   <a href="https://t.me/HighExceL"><img src="./assets/contact-telegram.svg" alt="Telegram: @HighExceL" height="48" /></a>
 </p>
